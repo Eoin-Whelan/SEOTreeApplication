@@ -5,6 +5,7 @@ Used a static list of string memory addresses that were linked to keyword nodes 
 
 
 ![Program Structure](https://user-images.githubusercontent.com/45624064/114146333-5c7a2500-990f-11eb-91c1-a2ea4a79c6bd.png)
+
 Program Structure
 
 [If you would like to read my academic report on it, you can here!](https://github.com/EoinFar/SEOTreeApplication/files/6283988/Report.pdf)
